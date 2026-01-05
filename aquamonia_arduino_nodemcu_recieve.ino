@@ -5,7 +5,6 @@
 #include "recieve_send_data.h"
 #include "read_serial.h"
 #include "helper_function.h"
-#include "send_googlesheet.h"
 
 const int ledPin = D0;
 const int interval = 60000; // Waktu interval dalam milidetik (3 jam = 3 x 60 x 60 x 1000)

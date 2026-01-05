@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Local documentation
+CLAUDE.md
+
+# Sensitive files with API keys and credentials
+send_googlesheet.cpp
+send_googlesheet.h
